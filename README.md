@@ -8,5 +8,7 @@ LSTM networks manage to keep contextual information of inputs by integrating a l
 The model has yielded an accuracy of 95%.
 
 ## Architecture 
-
+<p>
+  <img width="832" height="417" src="https://github.com/Raahul46/Early-sepsis-detection/blob/master/Archi.JPG">
+</p>
 
