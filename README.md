@@ -12,3 +12,6 @@ The model has yielded an accuracy of 95%.
   <img width="832" height="417" src="https://github.com/Raahul46/Early-sepsis-detection/blob/master/Archi.JPG">
 </p>
 
+Co-Creators:
+
+<p>Janani V I - <span><a href="https://github.com/Janani216"/>Janani V I</span></a></p>
