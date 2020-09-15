@@ -1,4 +1,4 @@
-# SepsisDetection
+# Sepsis Detection
 Sepsis is a life-threatening condition that occurs when the body's response to infection causes tissue damage, organ failure, or death.The goal of this Challenge is the early detection of sepsis using physiological data. Data used in the competition is sourced from ICU patients in three separate hospital systems. 
 
 ## Why LSTM:
